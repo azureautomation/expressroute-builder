@@ -1,0 +1,20 @@
+{
+    "Author": "robertraybarnes",
+    "ContentSize": 18885,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/expressroute-builder/master/ExpressRoute%20builder%20v0.2.ps1",
+    "DownloadCount": 576,
+    "Id": "ExpressRoute-Builder-1c2ee62a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 434,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "ExpressRoute Builder README notes.Script written by: Robert BarnesDate written: 20/03/2017Version Number: V0.2Github URL:\u00a0https://github.com/robertraybarnes/PowerShell-Scripts/blob/master/ExpressRoute%20Builder%20PowerShell%20Script%20for%20Azure\u00a0This script is designed to deploy",
+    "Title": "ExpressRoute Builder",
+    "UpdatedDate": "2017-3-20T00:00:00",
+    "Url": "https://github.com/azureautomation/expressroute-builder",
+    "UserTags": "Microsoft Azure, Powershell Script, PowerShell Function"
+}
